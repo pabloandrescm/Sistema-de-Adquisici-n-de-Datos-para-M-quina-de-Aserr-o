@@ -1,0 +1,7 @@
+pymodbus==3.6.9
+pyserial==3.5
+xlsxwriter==3.2.0
+openpyxl==3.1.5
+matplotlib==3.9.2
+reportlab==4.2.2
+numpy==2.1.1
